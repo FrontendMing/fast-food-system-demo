@@ -1,8 +1,6 @@
 # fast-food-system-demo
 
-learned from jspang's video, and optimized packaging
-
-> A Vue.js project
+> A Fast-food system demo, learned from jspang's video, and optimized packaging
 
 ## Build Setup
 
