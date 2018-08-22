@@ -1,4 +1,6 @@
-# awesomepos
+# fast-food-system-demo
+
+# learned from jspang's video
 
 > A Vue.js project
 

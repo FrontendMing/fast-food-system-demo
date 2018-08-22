@@ -1,7 +1,7 @@
 {
-  "name": "awesomepos",
+  "name": "fast-food-system-demo",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Fast-food system demo, learned from jspang's video",
   "author": "wangming <627867982@qq.com>",
   "private": true,
   "scripts": {
